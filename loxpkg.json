@@ -1,1 +1,9 @@
-
+{
+  "name": "jloxpkg",
+  "author": "TechmanJ27",
+  "root": "https://github.com/TechmanJ27/jloxpkg/",
+  "version": "v0.1.1",
+  "dependencies": [
+    
+  ]
+}
