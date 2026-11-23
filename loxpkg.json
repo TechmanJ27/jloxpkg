@@ -1,8 +1,12 @@
 {
   "name": "jloxpkg",
-  "author": "TechmanJ27",
-  "root": "https://github.com/TechmanJ27/jloxpkg/",
+  "owner": "TechmanJ27",
   "version": "v0.1.1",
+  "authors": "TechmanJ27",
+  "liscense": "GNU",
+  "website": "https://github.com/{owner}/{name}",
+  "entry-file": "test.lox",
+  "root": "https://github.com/{owner}/{name}/releases/download/{version}",
   "dependencies": [
     
   ]
